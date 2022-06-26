@@ -23,5 +23,9 @@ Please adhere to this project's `code of conduct`.
 
 ## Demo
 
-Insert gif or link to demo
+https://github.com/datvly/Cryptography-Substitution-Cipher/blob/main/Demo.gif
+
+## Demo
+
+![App Screenshot](https://github.com/datvly/Cryptography-Substitution-Cipher/blob/main/Demo.gif)
 
