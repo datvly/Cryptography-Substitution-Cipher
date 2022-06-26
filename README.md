@@ -1,15 +1,15 @@
 
-# 🎭 The Keirsey Temperament Sorter 📝
+# 🕵️ Cryptography Substitution Cipher 👨‍💻
 
 
-In this project, we're going to sort all of the data we have into a Keirsey Temperament personality, 
+In this project, we're going to decrypt usinng substitution cipher.
 
 
 ## Installation
 
 Clone the repository by
 ```bash
-https://github.com/datvly/Home-Field-Advantage.git
+https://github.com/datvly/Cryptography-Substitution-Cipher.git
 ```
     
 ## Contributing
@@ -23,9 +23,5 @@ Please adhere to this project's `code of conduct`.
 
 ## Demo
 
-https://github.com/datvly/Cryptography-Substitution-Cipher/blob/main/Demo.gif
-
-## Demo
-
-![App Screenshot](https://github.com/datvly/Cryptography-Substitution-Cipher/blob/main/Demo.gif)
+![App](https://github.com/datvly/Cryptography-Substitution-Cipher/blob/main/Demo.gif)
 
